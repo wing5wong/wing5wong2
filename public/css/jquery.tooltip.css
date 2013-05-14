@@ -1,0 +1,35 @@
+#tooltip {
+	position: absolute;
+	z-index: 3000;
+	border: 1px solid #111;
+	background-color: #eee;
+	padding: 5px;
+	opacity: 0.85;
+}
+#tooltip h3, #tooltip div { margin: 0; }
+
+
+
+#tooltip{max-width:600px;background:rgba(255,255,255,1);color:#000;border-radius:6px;opacity:1;border:1px solid #e1e1e1;;overflow:hidden;z-index:99999;line-height:1.5}
+
+
+#tooltip{padding:0;border-color:#222!important;
+
+border-radius:0;
+box-shadow:0 2px 6px rgba(0, 0, 0, 0.35), 0 1px 0 rgba(255, 255, 255, 0.05) inset
+}
+
+#tooltip h3  {font-weight:bold;border-bottom:1px solid #e1e1e1;color:#000;font-size:14px;padding:0 8px;
+
+;color:#000;font-weight:bold;
+background:#FEC803;
+background:rgba(254, 200, 3,0.6);
+background:#38352A;
+color:#fff;
+}
+
+#tooltip .body{color:#000;padding:8px}
+#tooltip .body p{margin:0;padding:0;}
+
+#tooltip dt{font-weight:bold}
+#tooltip dd{margin-left:8px;font-style:italic}

@@ -1,0 +1,143 @@
+
+.options .options-delete{
+	color:#e10000;
+}
+
+
+#container .admin-box{float:right;width:auto;background: rgba(7,150, 0, 0.1);
+
+
+	background: rgb(255,255,255); /* Old browsers */
+	background: -moz-linear-gradient(top,  rgba(255,255,255,1) 0%, rgba(243,243,243,1) 50%, rgba(237,237,237,1) 51%, rgba(255,255,255,1) 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(255,255,255,1)), color-stop(50%,rgba(243,243,243,1)), color-stop(51%,rgba(237,237,237,1)), color-stop(100%,rgba(255,255,255,1))); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  rgba(255,255,255,1) 0%,rgba(243,243,243,1) 50%,rgba(237,237,237,1) 51%,rgba(255,255,255,1) 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  rgba(255,255,255,1) 0%,rgba(243,243,243,1) 50%,rgba(237,237,237,1) 51%,rgba(255,255,255,1) 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  rgba(255,255,255,1) 0%,rgba(243,243,243,1) 50%,rgba(237,237,237,1) 51%,rgba(255,255,255,1) 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  rgba(255,255,255,1) 0%,rgba(243,243,243,1) 50%,rgba(237,237,237,1) 51%,rgba(255,255,255,1) 100%); /* W3C */
+
+
+	border-radius:4px;
+
+
+
+}
+
+
+#cke_body{max-width:100% ;min-width:100%;}
+
+.error{color:#ff0000;}
+
+
+.pagination{
+	border: 1px solid #ccc;
+	
+	background:#f1f1f1;
+	margin-bottom:16px;
+}
+
+.content-section .pagination ul{text-align:center;}
+.content-section .pagination ul li{display:inline;width:auto;float:none;margin-right:10px;}
+.content-section .pagination ul li:last-child{margin-right:0;}
+.content-section .pagination ul li.disabled{display:none;}
+.content-section .pagination ul li.active a{
+	color:#DD2D45;
+	pointer-events: none;
+	cursor: default;
+}
+
+
+	fieldset.post-body{
+		clear:both;
+		width:100%;
+	}
+
+
+
+	
+	
+	
+	#user-profile {
+		float: right;
+	}
+	#user-profile a {
+		color: #DD2D45
+	}
+
+
+	
+	form input[type="text"].slug-link{
+		background:#333;
+		color: #fff;
+	}
+	
+	form textarea{
+		display:block;
+		max-width:100%;
+		min-width:100%;
+	}
+	
+	a.delete.button{
+		background: none repeat scroll 0 0 #ED7676;
+		color:#fff;
+		float:left;
+		background:#DA1A13;
+		
+		text-shadow: -1px -1px #444;
+	}
+
+	.admin .content-area .admin-menu-wrapper{
+		float:left;
+		width:25%;
+		padding:8px;
+	}	
+	.admin .content-area .admin-menu-wrapper a{
+		border: 1px solid rgba(0, 0, 0, 0.2);
+		display: inline-block;
+		padding: 20px 0;
+		text-align: center;
+		width: 100%;
+		font-weight:bold
+	}
+	
+	.post-body-wrapper{float:left;width:75%;padding-right:8px;}	
+
+	.post-settings {
+		float: left;
+		padding-left:8px;
+		width: 25%;
+	}
+
+	.view-options{
+		border:1px solid #ccc;
+		background:#f1f1f1;
+		float:left;
+		width:100%;
+		padding: 8px;
+	}
+
+	#page-footer form{
+		float:right;
+		background:#666;
+		background:rgba(255,255,255,0.4);
+		position:relative;
+		border-radius: 36px 0 0 36px;
+		padding:4px 4px 4px 4px;
+		border:1px solid #ccc;
+		margin-right:-634px;
+		border-left:18px solid #4E9330;
+		border-right:0;
+	}
+	#page-footer form i{color:#fff;position:absolute;margin-top:12px;margin-left:-14px;}
+	#open-form:hover{cursor:pointer;}
+	#page-footer #open-form{
+		
+		border-radius: 36px 0px 0px 36px;
+		height: 36px;
+		width: 18px;
+		left:0;
+		top:-1px;
+		color:#f00;
+		position:absolute;
+		border-right:0;
+		
+	}

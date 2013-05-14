@@ -1,0 +1,4 @@
+#4CC528
+
+url('http://ak3.picdn.net/shutterstock/videos/2662748/preview/stock-footage-abstract-cgi-motion-graphics-and-animated-background-of-green-dots-spinning-and-flashing-in-a.jpg')
+background-position:250px -200px
